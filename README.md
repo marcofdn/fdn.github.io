@@ -3,4 +3,4 @@ This is a start page I modified for personal use by [0-Tikaro](https://github.co
 
 * Added a search bar using code from homepage by [LvInSaNevL](https://github.com/LvInSaNevL/homepage) (adjusted to use duckduckgo)
 
-[Preview](https://fdn.github.io/homepage/)
+[Preview](https://jamtarty.github.io/homepage/)
