@@ -41,7 +41,7 @@ body {
 
 #logo h1 {
     font-weight: 200;
-    font-size: 3rem;
+    font-size: 2rem;
     margin-bottom: 0;
     color: var(--header);
 }
@@ -71,7 +71,7 @@ body {
     display: inline-block;
     vertical-align: top;
     text-align: left;
-    width: 15%;
+    width: 20%;
     padding: 1% 2%;
 }
 
