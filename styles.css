@@ -6,7 +6,7 @@
     --text-color: #A9B0B3;
 --bg-image: url("assets/bg6.jpg");
     --links: #ffffff;
-    --header: #cfcfcf;
+    --header: #ffffff;
 }
 
 body {
@@ -17,10 +17,9 @@ body {
     background-color: var(--bg-color);
     color: var(--text-color);
 
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway', sans-serif,bold;
     font-size: 16px;
-    font-weight: bold;
-
+    
     user-select: none;
     animation: fadein 1s;
 }
