@@ -19,6 +19,7 @@ body {
 
     font-family: 'Raleway', sans-serif;
     font-size: 16px;
+    font-weight: 400;
 
     user-select: none;
     animation: fadein 1s;
@@ -71,7 +72,6 @@ body {
     display: inline-block;
     vertical-align: top;
     text-align: left;
-    font-weight: 400;
     width: 20%;
     padding: 1% 2%;
 }
