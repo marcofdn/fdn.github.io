@@ -71,6 +71,7 @@ body {
     display: inline-block;
     vertical-align: top;
     text-align: left;
+    font-weight: 400;
     width: 20%;
     padding: 1% 2%;
 }
