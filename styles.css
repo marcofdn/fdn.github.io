@@ -10,6 +10,10 @@
     --header: #A9B0B3;
 }
 
+:bgimage {
+    --bg-image:  opacity: 0.5;
+}
+
 body {
     padding: 0;
     margin: 0;
