@@ -18,7 +18,7 @@ body {
     color: var(--text-color);
 
     font-family: 'Allan', cursive;
-    font-size: 16px;
+    font-size: 20px;
     
     user-select: none;
     animation: fadein 1s;
@@ -35,13 +35,13 @@ body {
 }
 
 #logo {
-    padding-top: 1vh;
+    padding-top: 0,5vh;
     text-align: center;
 }
 
 #logo h1 {
     font-weight: 700;
-    font-size: 1rem;
+    font-size: 30px;
     margin-bottom: 0;
     color: var(--header);
 }
