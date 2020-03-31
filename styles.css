@@ -41,14 +41,14 @@ body {
 
 #logo h1 {
     font-weight: 700;
-    font-size: 25px;
+    font-size: 20px;
     margin-bottom: 0;
     color: var(--header);
 }
 
 #logo h2 {
     font-weight: 400;
-    font-size: 30px;
+    font-size: 20px;
     margin-top: 0;
     opacity: 0.6;
 }
