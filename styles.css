@@ -18,7 +18,7 @@ body {
     color: var(--text-color);
 
     font-family: 'Allan', cursive;
-    font-size: 18px;
+    font-size: 20px;
     
     user-select: none;
     animation: fadein 1s;
@@ -77,7 +77,7 @@ body {
 
 .group h1 {
     font-weight: 400;
-    font-size: 1,1rem;
+    font-size: 24px;
     margin-bottom: 0;
     border-bottom: 1px solid var(--links);
 }
