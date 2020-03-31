@@ -39,7 +39,7 @@ body {
     text-align: center;
 }
 
-logo h1 {
+#logo h1 {
     font-weight: 700;
     font-size: 10px;
     margin-bottom: 0;
