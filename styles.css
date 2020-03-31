@@ -4,7 +4,7 @@
 :root {
     --bg-color: #323234;
     --text-color: #A9B0B3;
-    --bg-image: url("assets/bg5.jpg"); opacity:0.4;
+    --bg-image: url("assets/bg5.jpg");
     --links: #ffffff;
     --header: #A9B0B3;
 }
@@ -41,7 +41,7 @@ body {
 
 #logo h1 {
     font-weight: 700;
-    font-size: 10px;
+    font-size: 20px;
     margin-bottom: 0;
     color: var(--header);
 }
