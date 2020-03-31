@@ -72,12 +72,12 @@ body {
     vertical-align: top;
     text-align: left;
     width: 20%;
-    padding: 1% 2%;
+    padding: 0,5% 1%;
 }
 
 .group h1 {
     font-weight: 400;
-    font-size: 1,5rem;
+    font-size: 1,3rem;
     margin-bottom: 0;
     border-bottom: 1px solid var(--links);
 }
