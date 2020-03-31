@@ -17,7 +17,7 @@ body {
     background-color: var(--bg-color);
     color: var(--text-color);
 
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Caveat', cursive;
     font-size: 16px;
     
     user-select: none;
@@ -40,7 +40,6 @@ body {
 }
 
 #logo h1 {
-    font-family: 'Caveat', cursive;
     font-weight: 200;
     font-size: 1rem;
     margin-bottom: 0;
